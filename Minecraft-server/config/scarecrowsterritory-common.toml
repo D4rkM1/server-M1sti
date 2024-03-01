@@ -1,0 +1,19 @@
+
+[General]
+	#Should mobs passively spawn within the scarecrows' range
+	#Requires a world reload
+	#Allowed Values: true, false  Default: true
+	passiveMobSpawning = true
+	#In what range will the scarecrows load spawners?
+	#Requires a world reload
+	#Allowed Range: 1.0 ~ 25.0  Default: 8.0
+	loadSpawnerRange = 8.0
+	#In what range will mobs passively spawn?
+	#Requires a world reload
+	#Allowed Range: 1.0 ~ 25.0  Default: 8.0
+	passiveMobRange = 8.0
+	#Should the scarecrows keep spawners in range activated?
+	#Requires a world reload
+	#Allowed Values: true, false  Default: true
+	loadSpawners = true
+

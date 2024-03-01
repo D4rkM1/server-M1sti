@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709229192237
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709272299971
+  login: 1709272069111
+money: '0'
+last-account-name: jsorner
+lastlocation:
+  world: 084c67c4-b769-4bb3-9194-66aff881eaa7
+  world-name: Mundo nuevo
+  x: -6.849157840637102
+  y: 87.0
+  z: -3482.120051915578
+  yaw: 90.81207275390625
+  pitch: 24.03033447265625
+logoutlocation:
+  world: 084c67c4-b769-4bb3-9194-66aff881eaa7
+  world-name: Mundo nuevo
+  x: -17.574241796508108
+  y: 82.0
+  z: -3474.3482115961683
+  yaw: 336.62353515625
+  pitch: 15.6685209274292

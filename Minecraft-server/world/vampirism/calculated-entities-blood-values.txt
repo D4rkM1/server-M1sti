@@ -1,0 +1,23 @@
+#Dynamically calculated blood values - DON'T EDIT
+{
+  "iceandfire:hippogryph": 15,
+  "alexsmobs:alligator_snapping_turtle": 10,
+  "alexsmobs:emu": 15,
+  "alexsmobs:raccoon": 5,
+  "minecraft:trader_llama": 15,
+  "alexsmobs:grizzly_bear": 15,
+  "duneons:pigchest": 6,
+  "alexsmobs:seal": 11,
+  "minecraft:strider": 13,
+  "alexsmobs:gazelle": 9,
+  "alexsmobs:snow_leopard": 15,
+  "alexsmobs:gorilla": 15,
+  "alexsmobs:platypus": 3,
+  "cnb:lilytad": 4,
+  "iceandfire:amphithere": 15,
+  "alexsmobs:shoebill": 9,
+  "alexsmobs:capuchin_monkey": 3,
+  "iceandfire:hippocampus": 15,
+  "alexsmobs:tasmanian_devil": 3,
+  "alexsmobs:mungus": 8
+}

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709264077894
+  login: 1709265587773
+money: '0'
+last-account-name: OmarSGR
+logoutlocation:
+  world: 084c67c4-b769-4bb3-9194-66aff881eaa7
+  world-name: Mundo nuevo
+  x: -154.14814884858842
+  y: 66.0
+  z: -165.15914697873865
+  yaw: 225.13211059570312
+  pitch: 24.000038146972656

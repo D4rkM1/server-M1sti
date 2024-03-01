@@ -1,0 +1,16 @@
+Groups:
+  Admin:
+    Permission: nte.admin
+    Prefix: '&c'
+    Suffix: '&f'
+    SortPriority: 1
+  Moderator:
+    Permission: nte.moderator
+    Prefix: '&2'
+    Suffix: '&f'
+    SortPriority: 2
+  bati:
+    Permission: nte.bati
+    Prefix: '&f&l[&5&lBATI&f&l] '
+    Suffix: ''
+    SortPriority: -1

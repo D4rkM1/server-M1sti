@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709231588956
+  login: 1709230673742
+money: '0'
+last-account-name: _Zyrax
+logoutlocation:
+  world: 084c67c4-b769-4bb3-9194-66aff881eaa7
+  world-name: Mundo nuevo
+  x: -853.2114931940571
+  y: 67.0
+  z: -821.3814016020048
+  yaw: 73.09625244140625
+  pitch: 46.74652099609375

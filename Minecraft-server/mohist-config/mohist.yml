@@ -1,0 +1,47 @@
+# This is the main configuration file for Mohist.
+# As you can see, there's tons to configure. Some options may impact gameplay, so use 
+# with caution, and make sure you know what each option does before configuring.
+# For a reference for any variable inside this file, check out the Mohist wiki at
+# https://wiki.mohistmc.com/
+# If you need help with the configuration or have any questions related to Spigot,
+# join us at the Discord or drop by our forums and leave a post.
+# Discord: https://discord.gg/mohistmc
+# Forums: https://mohistmc.com/
+# Forums (CN): https://mohistmc.cn/
+
+max-bees-in-hive: 3
+enchantment-table-book-animation-tick: false
+mohist:
+  vanilla_lang: en_us
+  check_update: true
+  lang: xx_XX
+  custom_flags: aaaa bbbb
+  check_libraries: true
+  disable_mods_blacklist: false
+  disable_plugins_blacklist: false
+  check_update_auto_download: false
+  use_custom_java11: false
+  show_logo: true
+  optimize_explosions: true
+  prevent_from_entering_unloaded_chunks: true
+  forge_ignore_optional_mods_version_check: false
+  ignore_empty_time: all_worlds
+  chunk_unload_delay: 5
+  enable_worldedit_fix: true
+  networkmanager:
+    debug: false
+    intercept: []
+libraries_black_list: aaaaa;bbbbbb
+config-version: 1
+anvilfix:
+  maximumrepaircost: 40
+  enchantment_fix: false
+  max_enchantment_level: 32767
+player_modlist_blacklist:
+  enable: false
+  list: []
+server_modlist_whitelist:
+  enable: false
+  list: '[minecraft, forge]'
+forge:
+  hidejoinmodslist: false

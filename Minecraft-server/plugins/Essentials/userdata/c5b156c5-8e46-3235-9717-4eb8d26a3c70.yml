@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1709231412925
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1709275738239
+  login: 1709276014506
+money: '0'
+last-account-name: zM1sti
+logoutlocation:
+  world: 084c67c4-b769-4bb3-9194-66aff881eaa7
+  world-name: Mundo nuevo
+  x: -8.410628579854606
+  y: 87.0
+  z: -3475.5512057418005
+  yaw: -243.10116577148438
+  pitch: 8.334244728088379
+homes:
+  home:
+    world: 084c67c4-b769-4bb3-9194-66aff881eaa7
+    world-name: Mundo nuevo
+    x: -28.504985286280437
+    y: 83.0
+    z: -3485.499578614238
+    yaw: -171.277587890625
+    pitch: 38.55207443237305
+lastlocation:
+  world: 084c67c4-b769-4bb3-9194-66aff881eaa7
+  world-name: Mundo nuevo
+  x: -27.375928342521753
+  y: 82.0
+  z: -3494.1671459242907
+  yaw: -330.2972412109375
+  pitch: 4.854238986968994
